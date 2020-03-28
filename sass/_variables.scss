@@ -1,0 +1,21 @@
+$font-family-sans-serif: "Bellota Text", cursive;
+
+$border-radius: 0;
+$border-radius-lg: 0;
+$border-radius-sm: 0;
+
+// $primary: #75389e;
+$primary: #cfa10a;
+$theme-colors: (
+  "primary": $primary,
+  "success": #cfa10a
+);
+
+$jumbotron-bg: rgba(black, 0.4);
+
+$navbar-light-toggler-border-color: transparent;
+$navbar-toggler-padding-y: 0;
+$navbar-toggler-padding-x: 0;
+
+$breadcrumb-bg: transparent;
+$breadcrumb-padding-x: 0;

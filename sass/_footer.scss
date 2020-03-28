@@ -1,0 +1,24 @@
+footer {
+  background-color: rgb(221, 220, 220);
+  padding: 8px;
+  margin-top: 8px;
+  h4 {
+    color: $primary;
+  }
+  .info {
+    font-size: 0.9rem;
+  }
+}
+
+.second-footer {
+  background-color: darken($color: rgb(221, 220, 220), $amount: 30%);
+  padding: 8px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  p {
+    margin: 0;
+    font-size: 10px;
+  }
+}
